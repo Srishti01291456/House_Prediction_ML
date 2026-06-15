@@ -52,11 +52,13 @@ Users can enter house details through an interactive interface and receive an es
 
 ### Home Page
 
-![Home](screenshots/home_page.png)
+<img width="802" height="562" alt="image" src="https://github.com/user-attachments/assets/da87694d-073e-40e4-b9b3-35bc0bce0f3c" />
+
 
 ### Prediction Output
 
-![Prediction](screenshots/prediction_output.png)
+<img width="802" height="525" alt="image" src="https://github.com/user-attachments/assets/4034ba46-ed05-42d3-b28a-9c6065f13d6d" />
+
 
 ---
 
